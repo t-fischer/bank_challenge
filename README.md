@@ -10,5 +10,5 @@
 * api.py: Contains the Flask api and as well the payload schema validators.
 There is a class for each endpoint. It will also initiate a SQLite db  in the current folder.
 
-As written in the mail, I took the liberty to make some small improvements, like replacing the 
+As written in the challenge, I took the liberty to make some small improvements, like replacing the 
 payment "missed/made" by a scalar value (0/1), use the UUID format provided by the uuid library...) 

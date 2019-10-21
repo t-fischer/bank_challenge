@@ -90,5 +90,5 @@ traitlets==4.3.2
 urllib3==1.20
 wcwidth==0.1.7
 webargs==1.8.1
-Werkzeug==0.12.2
+Werkzeug==0.15.3
 wrapt==1.10.10

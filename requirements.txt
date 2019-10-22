@@ -43,7 +43,7 @@ parso==0.1.0
 pexpect==4.2.1
 pickleshare==0.7.4
 pid==2.1.1
-Pillow==4.1.1
+Pillow==6.2.0
 ply==3.9
 prompt-toolkit==1.0.15
 ptyprocess==0.5.2

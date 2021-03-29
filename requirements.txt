@@ -53,7 +53,7 @@ pycparser==2.14
 pycups==1.9.72
 pycurl==7.43.0
 pyenchant==1.6.10
-Pygments==2.2.0
+Pygments==2.7.4
 pygobject==3.24.1
 pyinotify==0.9.6
 PyIscsi==1.0

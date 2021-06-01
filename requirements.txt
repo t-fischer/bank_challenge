@@ -87,7 +87,7 @@ SQLAlchemy-Utils==0.32.18
 SSSDConfig==1.15.3
 systemd-python==234
 traitlets==4.3.2
-urllib3==1.20
+urllib3==1.26.5
 wcwidth==0.1.7
 webargs==1.8.1
 Werkzeug==0.12.2

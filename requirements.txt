@@ -18,7 +18,7 @@ Flask==0.12.2
 Flask-RESTful==0.3.6
 fros==1.1
 gpg==1.8.0
-html5lib==0.999
+html5lib==0.999999999
 humanize==0.5.1
 idna==2.5
 iniparse==0.4
